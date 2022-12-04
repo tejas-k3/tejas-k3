@@ -60,4 +60,4 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=tejas-k3" alt="Tejas" /></p>
 </details>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/tejas-k3/tejas-k3/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/tejas-k3/tejas-k3/blob/output/github-contribution-grid-snake.svg)
