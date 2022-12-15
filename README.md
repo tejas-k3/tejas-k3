@@ -7,7 +7,7 @@
 
 🌱 I’m currently learning about Networking Domain, Python and working on cool technologies. 🙃
 
-📫 You can always ping me on linkedin @ https://www.linkedin.com/in/tejas-kothari-1131b4150/ 🤓
+📫 You can always ping me on linkedin @ https://www.linkedin.com/in/tejaskothari03/ 🤓
 
 ## Wanna talk?
 
