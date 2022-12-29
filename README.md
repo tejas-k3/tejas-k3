@@ -44,7 +44,7 @@
 - Building an Indian stock market analysis desktop app.
 - Projects to teach and learn Design Patterns, HLD, LLD.
 
-
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 
 
 <details>
