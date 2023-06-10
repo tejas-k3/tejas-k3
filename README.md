@@ -2,7 +2,7 @@
 
 ### ✨&nbsp; About Me
 
-👋 Hi, I’m Tejas, a software engineer from India enjoying development of different products, PoCs in Java, Python, PostgresSQL, Vertica(SQL), MongoDB, Spring boot, React.
+👋 Hello, I'm Tejas, a software engineer from India experienced in Python, Java, Spring Boot, MySQL, PostgresSQL, Vertica(SQL), MongoDB, JavaScript, Redis, and React. I enjoy developing software and PoCs to create innovative solutions.
 
 🙃 Feel free to pause at https://tejas-k3.github.io/tk/
 
