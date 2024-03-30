@@ -4,8 +4,6 @@
 
 👋 Hello, I'm Tejas, a software engineer from India experienced in Python, Java, Spring Boot, MySQL, PostgresSQL, Vertica(SQL), MongoDB, JavaScript, Redis, and React. I enjoy developing software and PoCs to create innovative solutions.
 
-🙃 Feel free to pause at https://tejas-k3.github.io/tk/
-
 📫 You can always ping me on linkedin @ https://www.linkedin.com/in/tejaskothari03/
 
 
@@ -23,5 +21,3 @@
   <summary>🤯 Contributions</summary>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=tejas-k3" alt="Tejas" /></p>
 </details>
-
-![Snake animation](https://github.com/tejas-k3/tejas-k3/blob/output/github-contribution-grid-snake.svg)
