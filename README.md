@@ -2,7 +2,7 @@
 
 # <img src="https://github.com/tejas-k3/tejas-k3/blob/main/Assets/Hi.gif" width="30px"> Hey, I'm Tejas &nbsp;<img src="https://github.com/tejas-k3/tejas-k3/blob/main/Assets/Earth.gif" width="24px">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=520&lines=Software+Developer+%F0%9F%92%BB;Building+Innovative+Solutions+%F0%9F%9A%80;Turning+Ideas+into+PoCs+%E2%9A%A1;Always+Learning%2C+Always+Shipping+%F0%9F%93%A6" alt="Typing SVG" />
+https://tejas-kothari-portfolio.tejaskothari03.workers.dev
 
 <br/>
 
