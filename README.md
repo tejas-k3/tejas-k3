@@ -9,7 +9,7 @@ Curious software engineer. I like understanding how systems work, and then build
 ## What I'm building
 
 ### ₹ Rupee Engine *(private)*
-A Python system for analysing the Indian equity market and building portfolios from it, with a React UI on top. Built around async data pipelines, PostgreSQL, and backtesting that tries to be honest about what works.
+A logical, algorithmic engine for analysing the Indian equity market and building portfolios from it, with a React UI on top. Built around async data pipelines, PostgreSQL, and backtesting that tries to be honest about what works.
 
 - Scores the NSE universe with pluggable algorithms and turns the scores into risk-aware portfolios, with transaction costs modelled in.
 - It's my own daily driver: **I've grown ₹50K into ₹70K with it** so far. A personal result, not a promise and not advice.
